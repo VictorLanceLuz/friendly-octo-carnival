@@ -1,4 +1,7 @@
 # friendly-octo-carnival
-A project by Justin Naorbe and Victor Luz
+An untitled project by Justin Naorbe and Victor Luz
 
-Robot car that follows a laser pointer.
+# Project Idea
+- Drone with wheels
+- Arduino controlled
+- Follows red laser pointer
